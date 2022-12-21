@@ -1,0 +1,26 @@
+.intro {
+	width:100%;
+	position:relative;	
+	background: url(../img/imgprincipal.jpg) no-repeat top center;
+	background-size: cover;
+}
+
+#quiensoyimg {
+	padding: 20% 5% 20% 5%;
+}
+
+#quiensoytxt {
+	padding: 10%;
+}
+
+.txtsec {
+	padding: 5%;
+}
+
+.paddsec {
+	padding: 0% 0% 10% 0%;
+}
+
+.colorprincipal {
+	background-color: rgba(0, 0, 0, 0.2);
+}
