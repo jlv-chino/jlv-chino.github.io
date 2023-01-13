@@ -5,6 +5,16 @@
 	background-size: cover;
 }
 
+.login {
+	margin-left: -16%;
+	margin-bottom: 4%;
+	width:max-content;
+}
+
+#logo {
+	height: 2em;
+}
+
 #perfil {
 	margin-top: -18%;
 }
